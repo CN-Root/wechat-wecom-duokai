@@ -1,0 +1,10 @@
+F:\program\Winform\duokai\duokai\duokai\bin\Debug\duokai.exe.config
+F:\program\Winform\duokai\duokai\duokai\bin\Debug\duokai.exe
+F:\program\Winform\duokai\duokai\duokai\bin\Debug\duokai.pdb
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.csproj.AssemblyReference.cache
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\shuangkai.Home.resources
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.Properties.Resources.resources
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.csproj.GenerateResource.cache
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.csproj.CoreCompileInputs.cache
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.exe
+F:\program\Winform\duokai\duokai\duokai\obj\Debug\duokai.pdb
